@@ -1,0 +1,13 @@
+[
+    {
+        "code_file": "tmp/x.wasm",
+        "function": "myOracleFunc",
+        "input": {
+            "market": "Binance",
+            "coin_id": "bitcoin"
+        },
+        "secret": {
+            "api_key": "CoinGecko API key"
+        }
+    }
+]

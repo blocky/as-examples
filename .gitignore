@@ -21,3 +21,4 @@ on-chain/coverage.json
 
 # Hardhat Ignition default folder for deployments against a local node
 on-chain/ignition/deployments/chain-31337
+/fetch_and_process_api_call/tmp/x.wasm

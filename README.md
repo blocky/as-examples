@@ -1,8 +1,10 @@
-# attestation-service-examples
+# Blocky Attestation Service Examples 
 
-This repo contains some fun examples of things that you can do with the BLOCKY
-AS service.  It is currently under heavily active development and may not
-always be up to date, but if you are interested of have any question, let us
-know and we would be happy to help.
+This repository contains somme examples of how to use the Blocky Attestation 
+Service (Blocky AS) to create TEE attestations over API data and offchain
+computation. The examples are designed to be easy to understand and modify, so
+you can use them as a starting point for your own projects. 
 
-Email: info@blocky.rocks
+To learn more about Blocky AS, check out our 
+[documentation](https://blocky-docs.redocly.app/).
+
