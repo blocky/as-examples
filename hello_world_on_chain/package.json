@@ -1,0 +1,19 @@
+{
+  "name": "on-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test-local"
+  },
+  "author": "Blocky, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.2.0",
+    "base64-sol": "github:brechtpd/base64",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.18",
+    "npm": "^10.9.0",
+    "solidity-bytes-utils": "^0.8.3"
+  }
+}

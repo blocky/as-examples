@@ -1,0 +1,13 @@
+# a set of acceptable server enclave measurements for CLI to interact with
+acceptable_measurements = [
+    # a measurement that is valid for when the server is running on a non-TEE environment
+    { platform = "plain", code = "plain" },
+]
+# token authorizing CLI's access to the server
+auth_token = "BLOCKY AS API TOKEN"
+
+# the server that the CLI interacts with.
+# `local-server` is a special host value that will start a local attestation
+# service server for testing and development. To interact with a production
+# server, replace `local-server` with the appropriate server endpoint.
+host = "local-server"
